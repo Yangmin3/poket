@@ -72,7 +72,6 @@ cd 프로젝트_저장_경로
 
 <p align="center">
   <img width="450" alt="동작5" src="https://github.com/user-attachments/assets/46063198-7b04-4d48-bbdf-9a78d5d33738" />
-  <img width="420" alt="동작6" src="https://github.com/user-attachments/assets/dd6b4123-6ea9-4e51-b500-7a042ff33078" />
 </p>
 
 ---
@@ -85,6 +84,7 @@ cd 프로젝트_저장_경로
 
 <p align="center">
   <img width="420" alt="동작7" src="https://github.com/user-attachments/assets/7468c07a-4963-44be-8bd6-5469d2bf5c66" />
+  <img width="420" alt="동작6" src="https://github.com/user-attachments/assets/dd6b4123-6ea9-4e51-b500-7a042ff33078" />
 </p>
 
 ---
