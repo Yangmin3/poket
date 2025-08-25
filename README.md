@@ -6,6 +6,8 @@
 ---
 
 ## 📂 사용 데이터
+- **https://pokeapi.co/api/v2/pokemon(출처)**
+
 - **types (속성)**  
 - **evolutions (진화)**  
 - **description (설명)**  
