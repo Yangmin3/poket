@@ -1,12 +1,12 @@
 # 🟡 포켓몬 유사도 맞추기 게임
 
 포켓몬 데이터(types, evolutions, description, height, weight)를 기반으로  
-랜덤으로 출제된 3마리 포켓몬과 관계도가 높은 정답 포켓몬을 맞추는 게임입니다.  
-
+랜덤으로 출제된 3마리 포켓몬과 관계도가 높은 정답 포켓몬을 맞추는 게임입니다.    
+포켓몬의 경우 1세대 부터 9세대 까지 입니다.
 ---
 
 ## 📂 사용 데이터
-- **https://pokeapi.co/api/v2/pokemon(출처)**
+- 출처: **https://pokeapi.co/api/v2/pokemon**
 
 - **types (속성)**  
 - **evolutions (진화)**  
@@ -30,11 +30,11 @@ cd 프로젝트_저장_경로
 
 <img width="600" alt="실행1" src="https://github.com/user-attachments/assets/41610c10-8c43-482f-a0e4-6d1ffe63ee50" />
 
+
 3. 실행  
 - 최초 실행 시 **pokeAPI 데이터 로딩**이 필요하며 약 **15분** 소요됩니다.  
 - 이후에는 캐싱 데이터 활용 예정.  
-
-⚠️ **Note**: VSCode 내 CMD 환경에서 동작이 불안정할 수 있으므로 **콘다 프롬포트** 실행을 권장합니다.
+⚠️ **주의**: VSCode 내 CMD 환경에서 동작이 불안정할 수 있으므로 **콘다 프롬포트** 실행을 권장합니다.
 
 ---
 
